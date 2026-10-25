@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan to fix Romans 8:7-28 passage truncation by providing complete chapter fallback data, server-side verse-range gap detection with Gemini 3.8 Flash retrieval, possessive book normalization, and continuous full-range verse card display.",
+  "updatedAt": "2026-10-18T13:22:50.325004773Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

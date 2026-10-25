@@ -1,0 +1,6 @@
+{
+  "name": "VerseFlow — Live Sermon Scripture Capture",
+  "description": "Low-latency, glassmorphic Bible verse lookup, in-place context expansion, and Notion blockquote queue for live church sermon note-taking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
